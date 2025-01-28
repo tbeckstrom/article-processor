@@ -125,7 +125,7 @@ def main():
     args = parser.parse_args()
 
     config = load_config()
-    api_client = GoogleAPIClient(config["model_name"], config["retry_attempts"])
+    api_client = GoogleAPIClient(config["secrets_file"],config["model_name"], config["retry_attempts"])
     create_output_dir(config["output_dir"])
     example_summaries, example_presentations = load_example_data(config["example_dir"], api_client)
 

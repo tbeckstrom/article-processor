@@ -8,9 +8,8 @@ def load_config(config_path="config.yaml"):
         config = yaml.safe_load(f)
     return config
 
-def get_api_key(config) -> str:
+def get_api_key(secrets_path) -> str:
     """Gets the API key from the secrets file specified in config"""
-    secrets_path = config.get("secrets_file", "secrets.yaml")
     if not os.path.exists(secrets_path):
         raise FileNotFoundError(f"Secrets file (API Key) not found: {secrets_path}")
     with open(secrets_path, 'r') as f:

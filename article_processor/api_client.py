@@ -16,8 +16,8 @@ logger = logging.getLogger(__name__)
 class GoogleAPIClient:
     """Client for interacting with the Google Generative AI API."""
 
-    def __init__(self, model_name, retry_attempts = 2):
-          api_key = get_api_key()
+    def __init__(self, secrets_path, model_name, retry_attempts = 2):
+          api_key = get_api_key(secrets_path)
           genai.configure(api_key=api_key)
           self.model = genai.GenerativeModel(model_name)
           self.retry_attempts = retry_attempts
