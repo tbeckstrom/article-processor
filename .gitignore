@@ -1,0 +1,61 @@
+# User specific files
+secrets.yaml
+
+# Logs
+*.log
+
+#Temporary files / Notebook files
+*.ipynb
+*~
+*.tmp
+*.bak
+
+# Output files
+output/
+processed/
+*.pptx
+
+# unrelated prompts
+other_prompts/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+*.egg-info/
+*.egg
+*.whl
+
+# Environments
+.env
+venv/
+env/
+*.virtualenv
+.conda/
+
+# Unit test / coverage reports
+.coverage
+coverage/
+*.cover
+nosetests.xml
+
+# Translations
+*.mo
+*.pot
+
+# Documentation
+*.aux
+*.toc
+*.log
+
+# OS or Editor Folders
+.DS_Store
+.vscode/
+.idea/
+*.swp

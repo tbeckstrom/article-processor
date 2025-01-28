@@ -1,0 +1,9 @@
+model_name: "gemini-2.0-flash-exp"
+input_dir: "pdfs_to_process"
+output_dir: "output"
+example_dir: "examples"
+processed_dir: "processed"
+summary_instructions_path: "prompts/summary_instructions.md"
+presentation_instructions_path: "prompts/presentation_instructions.txt"
+retry_attempts: 2
+secrets_file: "secrets.yaml"

@@ -1,0 +1,338 @@
+---
+title: "Article Analysis and Evaluation"
+author: "Your name here"
+format: 
+    pptx:
+        slide-number: true
+        slide-level: 0
+---
+
+### Declarative Title
+
+Donidalorsen administered every 4 or 8 weeks reduces hereditary angioedema attack rate in patients with hereditary angioedema
+
+
+---
+
+### Review
+
+- Hereditary angioedema (HAE)
+  - Autosomal dominant disease, mutation in SERPING1 gene
+  - Leads to either deficiency (type 1) or dysfunction (type 2) of C1 inhibitor protein
+  - Results in uncontrolled activation of plasma prekallikrein, leading to bradykinin production
+
+::: {.notes}
+Hereditary angioedema (HAE) is a chronic, rare genetic disorder caused by mutations in the *SERPING1* gene, which encodes the C1 inhibitor protein. This leads to either a deficiency or dysfunction of the C1 inhibitor protein, which is a major regulator of multiple proteases including factor XII. When C1 inhibitor function is lost, this leads to uncontrolled activation of plasma prekallikrein, which then leads to activation of bradykinin, a powerful vasodilator.
+
+**Proposed Figure**: defective enzyme and biochemical pathway that leads to HAE attacks
+
+:::
+
+---
+
+### Review
+
+- Bradykinin increases vascular permeability, leading to HAE attacks
+- Current guidelines recommend long-term prophylaxis
+- Donidalorsen is an antisense oligonucleotide that targets prekallikrein mRNA
+
+::: {.notes}
+Bradykinin induced vasodilation increases vascular permeability, leading to episodes of swelling, pain, and potentially life-threatening HAE attacks, which severely affects a patient's quality of life.
+
+Current management guidelines recommend long-term prophylaxis with various agents, but breakthrough attacks can still occur. Donidalorsen is an investigational antisense oligonucleotide designed to selectively bind to and degrade prekallikrein mRNA in hepatocytes using ribonuclease H1. This leads to a reduction in the production of prekallikrein protein, which is a key precursor in the kallikrein-kinin cascade.
+
+Donidalorsen is designed for delivery to hepatocytes, the main site of prekallikrein production, by conjugating the antisense oligonucleotide with triantennary N-acetylgalactosamine (GalNAc) moiety.
+:::
+
+---
+
+### Article title / Bibliographic info
+
+*Picture of Article Title*
+
+-   **Journal**: New England Journal of Medicine
+-   **Date published**: May 31, 2024
+-   **DOI**: 10.1056/NEJMoa2402478
+
+::: {.notes}
+Insert picture of Article title
+:::
+
+---
+
+### Level of Evidence
+
+- Level 1B - Individual RCT
+
+::: {.notes}
+**Level 1B evidence**: individual RCT.  Per the levels of evidence for therapeutic studies.
+:::
+
+---
+
+### Purpose/Question
+
+**Population**
+
+- Patients aged 12 years and older with confirmed hereditary angioedema type I or II
+
+**Intervention**
+
+- Subcutaneous donidalorsen (80 mg) every 4 or 8 weeks
+
+**Comparison**
+
+- Placebo
+
+**Outcome**
+
+- Reduction in Time-normalized attack rate
+
+::: {.notes}
+**Narrative PICO**: Among patients 12 years of age or older with hereditary angioedema type I or II (P), does the subcutaneous administration of donidalorsen (80mg) every 4 or 8 weeks (I) when compared to placebo (C) reduce the time-normalized number of HAE attacks per 4 weeks (O)?
+
+**Time-normalized attack rate**: number of events divided by the person-time (number of weeks followed) multiplied by a constant (4 weeks in this case). It is a way to standardize event rate for varying follow up time among participants.
+:::
+
+---
+
+### Type of Study
+
+- Phase 3, multinational, double-blind, randomized, placebo-controlled trial.
+
+::: {.notes}
+**Double blind**: neither the participants nor the researchers know which treatment is being administered at any time
+
+**Randomized**: Participants were randomly assigned in a 2:1 ratio to either a 4-week dosing interval or an 8-week dosing interval. Within these two groups, participants were randomly assigned again in a 3:1 ratio to receive donidalorsen or placebo.
+
+**Placebo-controlled**: The study had a placebo group to compare to the experimental groups.
+
+**Phase 3**: late-stage clinical trial designed to confirm the safety, efficacy, and optimal dosing of a treatment in a larger patient population. It aims to gather sufficient data to support regulatory approval by comparing the treatment to standard care or placebo.
+:::
+
+---
+
+### Funding Source
+
+- Ionis Pharmaceuticals
+
+---
+
+### Population
+
+- N=90
+- Mean age: 37
+-  7 patients <18 yrs (mean age 14 yrs)
+- 93% had HAE type 1, 7% had HAE type 2
+- 52% had a history of laryngeal attacks
+- 18% had received prophylactic therapy prior to study.
+
+::: {.notes}
+A total of 116 patients were screened, 90 were randomized.  45 patients to donidalorsen every 4 weeks, 23 to every 8 weeks, and 22 to placebo.
+
+The study population is not racially diverse as 82% or more of participants in each group were white. This is a significant limitation.
+:::
+
+---
+
+### Population
+
+**Inclusion criteria**
+
+- Age 12 years or older
+- Confirmed diagnosis of type I or type II hereditary angioedema
+- At least two investigator-confirmed HAE attacks during run-in period
+
+**Exclusion criteria**
+
+- Not listed in summary (see supplementary appendix)
+
+::: {.notes}
+Run-in period = 56 days to 1 day before randomization
+:::
+
+---
+
+### Primary Predictor Variable
+
+- Treatment received: Donidalorsen (80mg every 4 or 8 weeks) vs. Placebo
+
+- Administered subcutaneously
+
+---
+
+### Primary Outcome
+
+- Time-normalized number of investigator-confirmed hereditary angioedema attacks per 4 weeks (attack rate) from week 1 to week 25
+
+::: {.notes}
+Time-normalized attack rate: number of events divided by the person-time (number of weeks followed) multiplied by a constant (4 weeks in this case). It is a way to standardize event rate for varying follow up time among participants.
+:::
+
+---
+
+### Secondary Outcomes
+
+- Time-normalized attack rate during weeks 5 to 25
+- Incidence of moderate or severe attacks
+- Clinical response (≥50%, ≥70%, or ≥90% reduction in attack rate from baseline)
+- Number of attacks leading to on-demand therapy
+- Attack-free status
+- Change from baseline in the Angioedema Quality-of-Life (AE-QoL) and Angioedema Control Test (AECT) scores
+
+::: {.notes}
+**Angioedema Quality-of-Life (AE-QoL)**: 17 items, 4 domains (functioning, fatigue/mood, fears/shame, and nutrition)
+Items are scored 0-4, higher scores = more frequent/worse attacks
+
+**Angioedema Control Test (AECT)**: Scores range 0-16, ≥10 indicates well-controlled disease
+
+**Patient Global Impression of Change (PGI-C)**: subjective measure of how a patient feels about their condition.
+
+**Exploratory outcomes**: Evaluated weeks 1-25 - # of ED visits,  reported improvement of PGI-C, Plasma Prekallikrein levels.   
+:::
+
+---
+
+### Study Protocol
+
+- Screening of patients for 56 days prior to randomization
+- Randomization to 4-week, 8-week, or placebo groups
+- Subcutaneous injection of donidalorsen 80mg
+- Trial-site visits every 4 weeks for treatment period of 25 weeks
+- Site visits at weeks 4, 8, 13 after the treatment period
+
+
+::: {.notes}
+**Randomization**: Participants were randomly assigned in a 2:1 ratio to either a 4-week dosing interval or an 8-week dosing interval. Within these two groups, participants were randomly assigned again in a 3:1 ratio to receive donidalorsen or placebo.
+
+:::
+
+---
+
+### Statistical Methods
+
+- Sample size chosen with goal to detect 25% lower attack rate in 4-week donidalorsen group compared to placebo
+- Primary endpoint analyzed with a Poisson regression model accounting for overdispersion using Pearson Chi-square scaling.
+- Hierarchical testing procedure to control for multiplicity.
+- Missing data assumed to be missing at random.
+
+::: {.notes}
+**Poisson distribution**: Used for sample size calculations statistical model used to describe probability of a given number of events occurring in a fixed interval of time/space, if events occur with a known average rate and independently.  Used here because the primary outcome is a count (number of events).
+
+**Poisson Regression Model**: models count data while adjusting for influencing factors using covariates and unequal observation times with offset variable.
+
+**Pearson Chi-square scaling**: Used to account for overdispersion (when variance in the data is larger than what is expected from a Poisson distribution)
+
+**Hierarchical testing procedure**: tests hypotheses in a predefined order, allowing for prioritization of endpoints and control for overall type I error. The conclusions for lower-ranked hypotheses are based on whether earlier tests in the hierarchy are significant.
+:::
+
+---
+
+### Results
+
+**Primary Outcome**
+
+- Time-normalized attack rate:
+  - 4-week group: 0.44 (P<0.001)
+  - 8-week group: 1.02 (P=0.004)
+  - Placebo: 2.26
+
+**Secondary Outcomes**
+
+- 87% lower attack rate in 4-week group from weeks 5-25 compared to placebo (P<0.001)
+- 60% lower attack rate in 8-week group from weeks 5-25 compared to placebo (P=0.004)
+- 82% in 4-week group had a ≥70% reduction in attacks vs. 18% in the placebo group
+- 53% in 4-week group were attack-free vs 9% in placebo
+- Improved quality of life with 4-week donidalorsen vs placebo
+
+::: {.notes}
+Significant reductions in mean attack rate for both the 4 week and 8 week dosing groups compared to the placebo group
+
+Donidalorsen every 4 weeks was associated with a significant improvement in the Angioedema Quality-of-Life score compared to placebo (18.6 points).
+
+Prekallikrein levels decreased from baseline by 46% and 52% in the 4-week and 8-week groups, respectively, compared to no change in the placebo group
+:::
+
+---
+
+*Table 1: Baseline Characteristics of Study Groups*
+
+::: {.notes}
+**Include Table 1**: Shows baseline demographics and disease characteristics in each treatment arm. Note the groups were relatively similar except for a slightly lower number of attacks in the placebo group in the run-in period (but these groups were all comparable during pre-screening). Highlight the Race section due to lack of diversity. Highlight the Baseline attack rate section. 
+
+:::
+
+---
+
+*Figure 1: Change in the Rate of HAE Attacks*
+
+::: {.notes}
+**Include Figure 1**: This figure shows the mean percent change in the rate of hereditary angioedema attacks over the duration of the trial. Both donidalorsen treatment groups have reduced attack rates compared to the placebo.
+:::
+
+---
+
+*Figure 2: Patients with a Reduction in HAE Attacks*
+
+::: {.notes}
+**Include Figure 2**: This figure presents the percentages of patients in each treatment arm experiencing a reduction in attacks from baseline across various categories of reduction. It shows a clear benefit of the 4-week donidalorsen, with higher proportions in each reduction category compared to the 8-week group or placebo.
+:::
+
+---
+
+*Table 2: Effect of Treatment on the Rate of HAE Attacks*
+
+::: {.notes}
+**Include Table 2**: Summarizes the efficacy outcomes of the trial, including number of attacks, reduction in attack rate, clinical response, and rate of moderate or severe attacks, as well as attacks requiring on-demand medication. Results are broken down by the different treatment groups. Highlight primary outcome section.
+:::
+
+---
+
+*Table 3: Adverse Events*
+
+::: {.notes}
+**Include Table 3**: This table summarizes the number of adverse events reported in each arm, including those related to the trial regimen, any serious adverse events and the most common specific adverse events reported.
+:::
+
+---
+
+### Conclusion
+
+- Donidalorsen, administered subcutaneously every 4 weeks, significantly reduced the rate of HAE attacks and improved quality of life compared to placebo.
+- Donidalorsen administered every 8 weeks reduced attack rate, but to a lesser degree than every 4 weeks.
+- The safety profile was generally favorable.
+
+---
+
+### Strengths and Limitations
+
+::: columns
+::: {.column width="47%"}
+#### Strengths
+
+- Robust double-blind, randomized, placebo-controlled design
+- Use of established patient-reported outcomes
+- Clinically meaningful reduction in attack rates and improvement in QOL
+- Inclusion of adolescent patients
+- High retention rate in open label extension
+:::
+::: {.column width="47%"}
+#### Limitations
+
+- Imbalance in baseline attack rate with placebo group having a lower attack rate than the donidalorsen groups
+- Lack of racial diversity
+- Limited follow-up period
+:::
+:::
+
+::: {.notes}
+94% of patients enrolled in the open-label extension
+
+Trial lacked racial diversity among participants.
+
+Relatively small sample size, which reflects the rarity of the condition.
+
+Run-in period required to establish baseline attack rate and thus may have missed patients with fewer attacks.
+:::
+
+---

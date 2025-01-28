@@ -1,0 +1,345 @@
+---
+title: "Article Analysis and Evaluation"
+author: "Your name here"
+format: 
+    pptx:
+        slide-number: true
+        slide-level: 0
+---
+
+### Declarative Title
+
+Oral sebetralstat significantly reduces time to symptom relief, reduction in severity, and complete resolution of hereditary angioedema attacks compared to placebo.
+
+---
+
+### Review
+
+- Hereditary angioedema (HAE)
+  - Autosomal dominant disease, mutation in SERPING1 gene
+  - Prevalence of 1 in 50,000
+  - Type 1 (85%) and type 2 (15%)
+    - 1: Decreased C1 inhibitor protein
+    - 2: Dysfunctional C1 inhibitor protein
+
+::: {.notes}
+**Proposed Figure 1**: defective enzyme and biochemical pathway that leads to HAE attacks \
+**Proposed Figure 2**: picture showing a patient's face before an attack and then after an attack
+
+Hereditary angioedema (HAE) is a rare genetic disorder typically caused by mutations in the *SERPING1* gene, which leads to a deficiency (Type 1) or dysfunction (Type 2) of the C1 inhibitor protein. This causes uncontrolled activation of the kallikrein-kinin system, resulting in episodes of tissue swelling (angioedema) that can be life-threatening if the upper airway is affected.
+
+In contrast, allergic (foods/insect bite) angioedema is associated with histamine but HAE is NOT so antihistamine/steroids/epi don’t work.
+
+:::
+
+---
+
+### Review
+
+- Current on demand therapy only include IV/IM forms
+- Sebetralstat is an oral plasma kallikrein inhibitor
+
+
+::: {.notes}
+Current on-demand treatments for HAE are administered parenterally (e.g., injection, IV), which can cause delays in treatment. These medications often require transport, preparation, and can cause hesitation in patients due to needle-related anxiety.  
+
+Oral treatments for HAE exist for prophylaxis (berotralstat) but there are no approved oral therapies for on-demand treatment of acute attacks. Sebetralstat is an oral plasma kallikrein inhibitor in development for the on-demand treatment of HAE attacks, with prior phase 2 trials showing rapid absorption and nearly complete inhibition of plasma kallikrein within 15 minutes of administration.
+:::
+
+---
+
+### Article title / Bibliographic info
+
+*Picture of Article Title*
+
+-   **Journal**: New England Journal of Medicine
+-   **Date published**: July 4, 2024
+-   **DOI**: 10.1056/NEJMoa2314192
+
+::: {.notes}
+Insert picture of Article title
+:::
+
+---
+
+### Level of Evidence
+
+- Level 1B - Individual RCT
+
+::: {.notes}
+**Level 1B evidence**: individual RCT with narrow confidence intervals.  Per the levels of evidence for therapeutic studies.
+:::
+
+---
+
+### Purpose/Question
+
+**Population**
+
+- Participants aged 12 years and older with type 1 or type 2 hereditary angioedema
+
+**Intervention**
+
+- Oral sebetralstat (300 mg or 600 mg)
+
+**Comparison**
+
+- Placebo
+
+**Outcome**
+
+- Time to the beginning of symptom relief
+
+::: {.notes}
+**Narrative PICO**: Among participants 12 years and older with hereditary angioedema (P), does the use of oral sebetralstat (I) when compared to placebo (C) result in faster time to symptom relief of hereditary angioedema attacks (O)?
+
+:::
+
+---
+
+### Type of Study
+
+- Phase 3, Double-blind, randomized, placebo-controlled, three-way crossover trial.
+-  
+
+::: {.notes}
+**3-way Crossover**: Participants randomly assigned to receive 3 different treatments in a specific sequence. They act as their own controls by undergoing all three treatments, separated by washout periods to avoid carryover effects.
+
+**Double blind**: neither the participants nor the researchers know which treatment is being administered at any time
+
+**Phase 3**: late-stage clinical trial designed to confirm the safety, efficacy, and optimal dosing of a treatment in a larger patient population. It aims to gather sufficient data to support regulatory approval by comparing the treatment to standard care or placebo.
+:::
+
+---
+
+### Funding Source
+
+- KalVista Pharmaceuticals
+
+---
+
+### Population
+
+- N=110
+- 264 eligible attacks
+- Median age=39.5 years (IQR 25 to 49)
+- 40% of male, 83.6% white.
+
+
+::: {.notes}
+**Eligible attack**: \
+- start of attack identified \
+- at least 48h elapsed since a trial agent or conventional agent was taken for a previous attack \
+- participant able to enter attack info in electronic diary during initial 4h after taking trial agent \
+- Any attack location and severity at baseline (excluding laryngeal attacks that were considered severe)
+
+21.8% of participants were receiving long-term prophylaxis, which included Berotralstat, Lanadelumab, C1 inhibitor replacement or a combination.
+
+It is worth noting that patients were allowed to self-administer the drug and were able to do so at home. This is unlike prior studies for HAE treatments which required the administration of medications at a clinic. This also makes the results more generalizable as they reflect real world use conditions. 
+:::
+
+---
+
+### Population
+
+**Inclusion criteria**
+
+- Age 12 years or older
+- Confirmed diagnosis of type 1 or type 2 hereditary angioedema
+- At least two documented attacks within 3 months before screening or randomization
+- Access to conventional on-demand therapy
+
+::: {.notes}
+Conventional on-demand therapy: ecallantide, icatibant, human plasma derived c1 inhibitor protein. All of which are IM/IV forms
+
+If they were on long-term prophylaxis, participants had to have a stable regimen for 3 months prior to screening.
+:::
+
+---
+
+### Population
+
+**Exclusion criteria**
+
+- Taking ACE inhibitors
+
+---
+
+### Primary Predictor Variable
+
+- Treatment received: Sebetralstat (300 mg or 600 mg) vs. Placebo
+- Administered orally at the onset of an angioedema attack
+
+---
+
+### Primary Outcome
+
+- Time to the beginning of symptom relief
+
+::: {.notes}
+**Beginning of symptom relief**: defined as a rating of "a little better" on the Patient Global Impression of Change (PGI-C) scale at two or more consecutive time points within 12 hours after the first administration of the trial agent.
+
+**Patient Global Impression of Change (PGI-C)**: 7-point scale that asks patients to rate their current status with respect to a specific condition, using responses such as much worse, worse, a little worse, no change, a little better, better, and much better. Validated in other disease settings and is a common outcome measure for clinical trials
+:::
+
+
+---
+
+### Secondary Outcomes
+
+- Reduction in attack severity within 12 hours
+- Complete attack resolution within 24 hours
+
+::: {.notes}
+**Attack severity reduction**: Defined as an improved rating on the Patient Global Impression of Severity (PGI-S) scale at two or more consecutive time points within 12 hours
+
+**Complete resolution of attack**: Defined as a rating of "none" on the PGI-S scale within 24 hours.
+
+**Patient Global Impression of Severity (PGI-S)**: Subjective, patient-reported, 5 point scale ranging from none, mild, moderate, severe, and very severe. 
+:::
+
+---
+
+### Study Protocol
+
+- Participants were randomly assigned to one of six sequences to receive up to two oral doses of sebetralstat (300 mg or 600 mg) or placebo for a HAE attack.
+- If the attack had not improved sufficiently within 3 hours, a second dose of the assigned treatment could be taken.
+- Participants recorded attack details and symptoms in an electronic diary at multiple intervals (every 0.5 hours during the first 4 hours, hourly up to 12 hours, and at increasing intervals up to 48 hours).
+
+---
+
+### Statistical Methods
+
+- **Primary and Secondary outcomes**: Assessed using a time-to-event analysis.
+- **Pairwise Comparisons**: Each dose of sebetralstat was compared with placebo.
+- **Fixed-Sequence Testing**: fixed-sequence, closed-testing procedure with Bonferroni correction was used to control for multiplicity. Tests statistically significant if p<0.05
+- **Handling of Missing Data**: Intention-to-treat analysis with imputation for missing data was performed. Treatment failures were censored at the end of the analysis window.
+- **Gehan Score Transformation**: Used for analyzing time-to-event endpoints.
+
+
+::: {.notes}
+**Time-to-event analysis**: looks at the time it takes for an event to occur, in this case it was the time to symptom relief, reduction in severity, and complete resolution of the angioedema attack. \
+**Fixed-Sequence Testing**: A method to control for multiple comparisons by testing hypotheses in a predefined order. \
+**Closed-testing procedure**: used to control the family-wise error rate ( probability of making at least one Type I error (false positive) among a group of multiple hypothesis tests).  It tests a hierarchy of hypotheses, starting with the global null hypothesis (no effect across all comparisons). If the global null is rejected, testing proceeds to smaller subsets of hypotheses, following a predefined structure. Each hypothesis is tested only if all encompassing (broader) hypotheses have been rejected, ensuring strong error control across all comparisons. \
+**Bonferroni Correction**: controls Type I error (false positives) when multiple comparisons are performed. It reduces the threshold for p-value significance by dividing it by the number of comparisons performed. This ensures that the overall likelihood of making at least one false positive remains below the original alpha level. \
+**Intention-to-treat**: all participants are analyzed in the groups to which they were originally randomized, regardless of whether they completed the treatment or followed the protocol. This method preserves the benefits of randomization, reflects real-world conditions, and avoids bias caused by dropout or protocol deviations. \
+**Imputation**: estimating and replacing missing values with plausible substitutes \
+**Gehan Score Transformation**: used in the time-to-event analysis to analyze survival curves via ranking using the Gehan test. Survival curves are a type of statistical graph used to show the proportion of the study group that have not yet reached the endpoint at a specific time.  It ranks all events and censored data, placing greater weight on events occurring earlier. Particularly useful for comparing two groups by accounting for both the timing of events and the presence of censored data.
+
+:::
+
+
+---
+
+### Results
+
+**Primary Outcome**
+
+- Median time to symptom relief:
+  - 300 mg: 1.61 hours (P<0.001)
+  - 600 mg: 1.79 hours (P=0.001)
+  - Placebo: 6.72 hours
+
+**Secondary Outcomes**
+
+- Reduction in attack severity:
+  - 300 mg: 9.27 hours (P=0.002)
+  - 600 mg: 7.75 hours (P<0.001)
+  - Placebo: >12 hours
+- Complete attack resolution within 24 hours:
+  - 300 mg: 42.5%
+  - 600 mg: 49.5%
+  - Placebo: 27.4%
+
+
+::: {.notes}
+In all primary and secondary outcomes the 300 mg and 600 mg sebtralstat reached a faster time to beginning of symptom relief, attack severity reduction and complete resolution of attack and all were statistifically significant with p values <0.05.
+
+The treatment effect of sebetralstat was consistent across various subgroups based on attack characteristics, patient characteristics, and geographic location.
+:::
+
+---
+
+*Table 1: Demographic and Clinical Characteristics of Study Groups*
+
+::: {.notes}
+**Include Table 1:** Demographic and Clinical Characteristics of Study Groups
+
+
+:::
+
+---
+
+*Table 2: Characteristics of the attacks*
+
+::: {.notes}
+**Include Table 2:** summarizes characteristics of the attacks, including median score on PGI-S at baseline, time from attack onset to administration, attack location, and pooled attack locations.
+
+Most attacks were in the mild to moderate range (~80%) \
+Time to treatment ~44% <30 min and ~44% >60 min but median time noted to be 41 min \
+Mostly involved abdomen/extremities, only 14% involved head face neck, larynx
+:::
+
+---
+
+*Figure 2 Summarizing Results: primary and secondary endpoints*
+
+::: {.notes}
+**Include Figure 2**:
+This figure presents Kaplan-Meier curves for the primary and key secondary endpoints.\
+- *Panel A* shows the time to the beginning of symptom relief, with sebetralstat 300mg and 600mg doses significantly faster compared to placebo
+- *Panel B* shows the time to reduction in attack severity, with both sebetralstat doses having faster times compared to placebo
+- *Panel C* shows the time to complete resolution of the attack, with both sebetralstat doses having faster times compared to placebo.
+:::
+
+---
+
+*Table 3: Safety outcomes*
+
+::: {.notes}
+**Include Table 3**:
+This table presents the safety outcomes. It includes data about any adverse event overall, adverse events related to the trial agent, and any serious or severe events, as well as specific types of adverse events, such as gastrointestinal and nervous system disorders.
+:::
+
+---
+
+### Conclusion
+
+- Oral sebetralstat significantly reduced the time to symptom relief, reduction in severity, and complete resolution of HAE attacks compared to placebo.
+- Sebetralstat had a similar safety profile to placebo.
+- Sebetralstat may provide a more convenient and effective option for on-demand treatment of HAE attacks.
+
+
+---
+
+### Strengths and Limitations
+
+::: columns
+::: {.column width="47%"}
+#### Strengths
+
+- Robust double-blind, randomized, placebo-controlled, three-way crossover design
+- Inclusion of two dosing regimens
+- Results were consistent across multiple subgroups based on demographic and disease characteristics
+- Conducted across multiple sites and countries, increasing the generalizability of the results
+- Comprehensive assessment of efficacy, including patient-reported outcomes
+:::
+::: {.column width="47%"}
+#### Limitations
+
+- Lack of racial diversity among participants
+- Laryngeal attacks not included due to rarity of this event
+- Approximately 19% of the randomized participants were not included in the analysis, although an intention-to-treat analysis was done to account for this missing data.
+
+:::
+:::
+
+::: {.notes}
+No Comparison to conventional therapy since only compared to placebo here, this was challenging bc differences in trial design and end points \
+Laryngeal attacks not included because only eight occurred. \
+Several laryngeal attacks censored because of missing data, (ongoing trial conducted that include attacks involving larynx)
+
+
+:::
+
+---
